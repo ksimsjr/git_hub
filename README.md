@@ -1,0 +1,1 @@
+This is one of Kenny's first Git projects. I used it before. But now I'm really learning.
